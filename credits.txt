@@ -1,0 +1,19 @@
+Common password list chosen from the NCSC 100k most used passwords
+
+From the UK National Cyber Security Centre
+
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt
+
+
+
+Frequency dictionary list from here
+
+https://github.com/aparrish/wordfreq-en-25000?utm_source=chatgpt.com
+
+
+
+Fuller Dictionary list from here 
+
+https://github.com/dwyl/english-words/blob/master/words_dictionary.json
+
+    
